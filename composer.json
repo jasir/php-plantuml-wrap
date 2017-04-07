@@ -1,6 +1,6 @@
 {
-    "name": "sufir/php-plantuml-wrap",
-    "description": "Wrap for UML generation by PlantUml on PHP",
+    "name": "jasir/php-plantuml-wrap",
+    "description": "Wrap for UML generation by PlantUml on PHP, forked from sufir/php-plantuml-wrap",
 	"keywords": [
         "php",
         "plantuml",

@@ -1,6 +1,8 @@
 # php-plantuml-wrap
 Wrap for PlantUml on PHP. Quick generating UML diagrams.
 
+Forked from https://github.com/Sufir/php-plantuml-wrap
+
 ### Installing with composer
 ```
 "require": {
